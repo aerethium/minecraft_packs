@@ -1,0 +1,18 @@
+{
+  "schema": "shine-effects-sound-v1",
+  "schemaVersion": 1,
+  "settings": {
+    "grassAmbientWindSoundsEnabled": false,
+    "grassAmbientWindSoundVolume": 0.25,
+    "grassAmbientWindSoundChance": 200,
+    "deepDarkAmbientSoundEnabled": true,
+    "deepDarkAmbientSoundVolume": 0.75,
+    "deepDarkAmbientSoundFadeInSeconds": 3.0,
+    "deepDarkAmbientSoundFadeOutSeconds": 3.0,
+    "cicadaAmbientSoundsEnabled": true,
+    "cicadaAmbientSoundVolume": 0.04,
+    "cicadaAmbientSoundChance": 368,
+    "cicadaAmbientSoundPitchRandom": 0.06,
+    "cicadaAmbientSoundCooldownTicks": 65
+  }
+}

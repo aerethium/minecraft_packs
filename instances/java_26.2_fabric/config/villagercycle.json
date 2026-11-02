@@ -1,0 +1,12 @@
+{
+  "enableCycleButton": true,
+  "allowWanderingTraders": false,
+  "showSuccessMessage": true,
+  "showWanderingTraderSuccessMessage": true,
+  "villagerCycleLimit": -1,
+  "wanderingTraderCycleLimit": 1,
+  "buttonOffsetX": 6,
+  "buttonOffsetY": -25,
+  "buttonWidth": 100,
+  "buttonHeight": 20
+}

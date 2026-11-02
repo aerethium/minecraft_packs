@@ -1,0 +1,11 @@
+# Kiss maximum range (meters)
+# range: 0.0 - Infinity
+# default: 2.0
+kissRange = 2.0
+# Kiss maximum angle (degrees)
+# range: 0.0 - 180.0
+# default: 40.0
+kissMaxAngle = 40.0
+# Integration with the Estrogen mod
+# default: true
+estrogenTransfer = true
