@@ -1,0 +1,46 @@
+{
+  "totalPatsCounter": {
+    "pats": 262
+  },
+  "entities": {
+    "minecraft:cat": {
+      "pats": 74
+    },
+    "minecraft:pufferfish": {
+      "pats": 23
+    },
+    "minecraft:skeleton": {
+      "pats": 17
+    },
+    "minecraft:pig": {
+      "pats": 27
+    },
+    "minecraft:villager": {
+      "pats": 1
+    },
+    "minecraft:stray": {
+      "pats": 14
+    },
+    "minecraft:cow": {
+      "pats": 21
+    },
+    "minecraft:spider": {
+      "pats": 5
+    },
+    "minecraft:chicken": {
+      "pats": 3
+    },
+    "minecraft:zombie": {
+      "pats": 3
+    },
+    "minecraft:creeper": {
+      "pats": 6
+    },
+    "minecraft:drowned": {
+      "pats": 5
+    },
+    "minecraft:rabbit": {
+      "pats": 50
+    }
+  }
+}

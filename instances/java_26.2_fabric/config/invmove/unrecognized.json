@@ -1,0 +1,25 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "com.beash.atmospherics.screen.FogConfigScreen": true,
+    "com.beash.atmospherics.screen.AirHazeScreen": true,
+    "com.beash.atmospherics.screen.AdditionalMenuScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "com.moulberry.flashback.screen.SaveReplayScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "io.github.fishstiz.packed_packs.gui.screens.PackedPacksScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "de.maxhenkel.voicechat.gui.audiodevice.SelectSpeakerScreen": true,
+    "codes.atomys.advr.screens.AdvancementReloadedScreen": true
+  },
+  "hideBackground": {
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true
+  }
+}

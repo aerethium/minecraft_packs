@@ -1,0 +1,50 @@
+/gamemode creative
+/time set night
+/weather thunder
+/weather clear
+/time set da
+/time set day
+/time set night
+/time set day
+/time set night
+/time set midnight
+/time set noon
+/weather
+/weather thunder
+/locate biome minecraft:desert
+/tp 118951 63 2346908
+/weather clear
+/time set night
+/time set day
+/time set noon
+/weather thunder
+/weather clear
+/chunky quiet
+/chunky trim
+/chunky confirm
+/time set day
+/time set night
+/chunky center
+/chunky radius 5000
+/chunky start
+/chunky cancel
+/chunky confirm
+/chunky cente
+/chunky center
+/chunky radius 1000
+/chunky start
+/time set day
+/time set night
+/time set day
+/timse set night
+/time set night
+/time set day
+/time set night
+/time set day
+/weather thunder
+/time set day
+/weather clear
+/time set night
+/time set day
+/time set night
+/time set day

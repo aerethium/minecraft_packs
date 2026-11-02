@@ -1,0 +1,46 @@
+{
+  "schema": "shine-effects-index-v1",
+  "schemaVersion": 1,
+  "domains": {
+    "core": {
+      "file": "core.json",
+      "schema": "shine-effects-core-v1",
+      "sha256": "a2a0068ed05a3046c1425645a4559395030e62905de9bdb10b2b8b9dd93d87e7"
+    },
+    "world": {
+      "file": "world.json",
+      "schema": "shine-effects-world-v1",
+      "sha256": "e95b72e66e5cfb02f3c9519cec8d51a8111fb4cb65b253d0c245f71988807a59"
+    },
+    "lighting": {
+      "file": "lighting.json",
+      "schema": "shine-effects-lighting-v1",
+      "sha256": "d4ed3e0b4f0cfe4756cd1d571c2934661887e0c355bfaf0732d82a6e2463188c"
+    },
+    "particles": {
+      "file": "particles.json",
+      "schema": "shine-effects-particles-v1",
+      "sha256": "cf06df428d32b2ba9399a069c68d8c6d1b5dcf36487bf03b8abb3e77ca099d73"
+    },
+    "interaction": {
+      "file": "interaction.json",
+      "schema": "shine-effects-interaction-v1",
+      "sha256": "a648c0bea4013f7a5e90fe5b800122263b0d6216a8578e4bd1aaa468680dc934"
+    },
+    "weather": {
+      "file": "weather.json",
+      "schema": "shine-effects-weather-v1",
+      "sha256": "5535babc59c0b9dd457f3cd2366c729f444b648782459edf6790b5257c0d34b6"
+    },
+    "camera": {
+      "file": "camera.json",
+      "schema": "shine-effects-camera-v1",
+      "sha256": "89e8a73dc47710b7c2566764e5719bcdd3d899f0f396efa0692e03d3f4bd1bfe"
+    },
+    "sound": {
+      "file": "sound.json",
+      "schema": "shine-effects-sound-v1",
+      "sha256": "2d0f71bd9cbb6e56eb36a1724e020b884c84773b48b6bd41c764d2c77fb83bce"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+[2026-09-10 15:36:38][FINE] Loading BlueMap v5.23 (4c4cbc291b361ceff6ee239448e9f988f9019dbb) on fabric 26.2 ...
+[2026-09-10 15:36:39][WARNING] BlueMap is missing important resources!
+[2026-09-10 15:36:39][WARNING] You must accept the required file download in order for BlueMap to work!
+[2026-09-10 15:36:39][WARNING] Please check: /home/archbtw/.minecraft/instances/02179f39571040089950f62370e48105/config/bluemap/core.conf
+[2026-09-10 15:36:39][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
